@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>ぞo guys</h1>
-<h2>げしげし</h2>
+gogo
 </body>
 </html>
