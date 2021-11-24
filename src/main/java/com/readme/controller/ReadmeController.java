@@ -11,6 +11,6 @@ public class ReadmeController {
 	
 	@RequestMapping("/home")
 	public String home() {
-		return "check";
+		return "home";
 	}
 }
