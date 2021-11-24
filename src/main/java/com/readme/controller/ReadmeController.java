@@ -18,12 +18,6 @@ import com.readme.service.MemberService;
 @RequestMapping("/readme")
 public class ReadmeController {
 	
-<<<<<<< .merge_file_a04444
-	@RequestMapping("/home")
-	public String home() {
-		return "home";
-	}
-=======
 	
     private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
     
@@ -48,6 +42,4 @@ public class ReadmeController {
     }
 
 
-
->>>>>>> .merge_file_a07108
 }

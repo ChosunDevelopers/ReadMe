@@ -181,8 +181,6 @@
             <version>8.0.11</version>
         </dependency>
 
-<<<<<<< .merge_file_a08064
-=======
 		<dependency>
 		    <groupId>org.apache.logging.log4j</groupId>
 		    <artifactId>log4j-api</artifactId>
@@ -193,9 +191,7 @@
 		    <groupId>org.apache.logging.log4j</groupId>
 		    <artifactId>log4j-core</artifactId>
 		    <version>2.0.1</version>
-		</dependency>
->>>>>>> .merge_file_a04348
-												    
+		</dependency>    
 	</dependencies>
     <build>
         <plugins>
