@@ -34,7 +34,11 @@
 
 	<!-- Root Logger -->
 	<root>
+<<<<<<< .merge_file_a08148
 		<priority value="warn" />
+=======
+		<priority value="info" />
+>>>>>>> .merge_file_a06520
 		<appender-ref ref="console" />
 	</root>
 	
